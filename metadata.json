@@ -1,0 +1,6 @@
+{
+  "name": "Sistem Manajemen Sekolah Cendekia",
+  "description": "Sistem Informasi Manajemen Sekolah (SIMS) terpadu: kesiswaan, kepegawaian guru, presensi digital, e-rapor, jadwal pelajaran, dan administrasi SPP.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
